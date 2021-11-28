@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allaboutishaan&theme=github_dark&show_icons=true&locale=en" alt="allaboutishaan" /></p>
 
-<a href="https://app.daily.dev/allaboutishaan"><img src="https://github.com/allaboutishaan/allaboutishaan/blob/master/devcard.svg" width="400" alt="Ishaan's Dev Card"/></a>
+<a href="https://app.daily.dev/allaboutishaan"><img src="https://github.com/allaboutishaan/allaboutishaan/blob/main/devcard.svg" width="400" alt="Ishaan's Dev Card"/></a>
