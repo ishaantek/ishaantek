@@ -35,4 +35,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allaboutishaan&show_icons=true&locale=en&layout=compact" alt="allaboutishaan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allaboutishaan&show_icons=true&locale=en" alt="allaboutishaan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allaboutishaan&theme=github_dark&show_icons=true&locale=en" alt="allaboutishaan" /></p>
