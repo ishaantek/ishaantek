@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/allaboutishaan" target="blank"><img src="https://img.shields.io/twitter/follow/allaboutishaan?logo=twitter&style=for-the-badge" alt="allaboutishaan" /></a> </p>
 
-- 🔭 I’m currently working on [Screensy](https://chrome.google.com/webstore/detail/screensy-screen-recorder/kdabkldmfdgpcmgdmhbalcljffbfamia)
+- 🔭 I’m currently working on my [Chrome Extensions](https://chrome.google.com/webstore/search/allaboutishaan)
 
 - 🌱 I’m currently learning **JavaScript / Python**
 
