@@ -16,7 +16,7 @@
 </p>
 
 ```diff 
-💀 Age: 13.
+💀 __: __.
 📬 Email: ishaan@allaboutishaan.com.
 🖥️ Favorite Coding Lang: Javascript.
 👾 Wants to learn: Cyber Security and AI.
