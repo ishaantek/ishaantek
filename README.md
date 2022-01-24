@@ -11,10 +11,9 @@
 <p align="center">
      <a href="https://github.com/allaboutishaan/iPage"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=allaboutishaan&repo=iPage&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/allaboutishaan/Screensy"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=allaboutishaan&repo=Screensy&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/allaboutishaan/account-sharer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=allaboutishaan&repo=account-sharer&hide_border=true&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/allaboutishaan/blazex"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=allaboutishaan&repo=blazex&hide_border=true&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/allaboutishaan/allaboutishaan.com"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=allaboutishaan&repo=allaboutishaan.com&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
   <a href="https://github.com/allaboutishaan/planets-facts-site"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=allaboutishaan&repo=planets-facts-site&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/allaboutishaan/blackjack"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=allaboutishaan&repo=blackjack&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
 </p>
 
 <p align="left">
