@@ -33,7 +33,7 @@
 🔭 Working on my Chrome Extensions
 
 📜 About me: I first started to learn to code when I was around eight. 
-   Fast forward to now, and I am a front-end web developer currently learning Advanced JS and React. 
+   Fast forward to now, and I am a front-end web developer currently learning multiple JS frameworks. 
    Some things that intrest me are Machine Learning and APIs. Feel free to contact me anytime!
 ```
 
