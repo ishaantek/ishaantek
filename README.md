@@ -30,7 +30,7 @@
 👾 Wants to learn: Cyber Security and AI.
 💼 Experience: 3-4 years.
 🌳 Hobbies: Biking, Tennis, Swimming, and Coding.
-🔭 Working on my Chrome Extensions
+🔭 Working on my projects
 
 📜 About me: I first started to learn to code when I was around eight. 
    Fast forward to now, and I am a front-end web developer currently learning multiple JS frameworks. 
