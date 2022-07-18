@@ -28,7 +28,7 @@
 📬 Email: ishaan@ishaantek.com.
 🖥️ Favorite Coding Lang: Javascript.
 👾 Wants to learn: Cyber Security and AI.
-💼 Experience: 3-4 years.
+💼 Experience: 5 years.
 🌳 Hobbies: Biking, Tennis, Swimming, and Coding.
 🔭 Working on my projects
 
