@@ -26,10 +26,10 @@
 ```diff 
 💀 Name: Ishaan Garg.
 📬 Email: ishaan@ishaantek.com.
-🖥️ Favorite Coding Lang: Javascript.
-👾 Wants to learn: Cyber Security and AI.
+🖥️ Favorite Coding Language: Javascript.
+👾 Wants to learn: NodeJS and NextJS.
 💼 Experience: 5 years.
-🌳 Hobbies: Biking, Tennis, Swimming, and Coding.
+🌳 Hobbies: Coding, Tennis, Studying.
 🔭 Working on my projects
 
 📜 About me: I first started to learn to code when I was around eight. 
