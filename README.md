@@ -101,7 +101,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=ishaantek&theme=material-palenight"></p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ishaantek&bg_color=242938&color=25e8a9&line=82aaff&point=89deff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--END_SECTION:activity-->
 </details>
 
