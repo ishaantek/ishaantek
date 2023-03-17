@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey, I'm Ishaan!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     <br>
@@ -87,21 +88,30 @@
 
 ## 😴 The Boring Stuff
 <details> 
+    
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=ishaantek&show_icons=true&theme=tokyonight" /></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaantek&layout=compact&theme=blueberry" /></p>
   <br/>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishaantek&amp;color=1588f3&amp;style=for-the-badge" alt=""></p><br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+   <br>
+
+
+
+  <br/>
+    
 </details>
+
 
 <details>
   <summary>📊 GitHub Activity Graph</summary>
   <br/>
 
 <!--START_SECTION:activity-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ishaantek&bg_color=242938&color=25e8a9&line=82aaff&point=89deff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ishaantek&bg_color=242938&color=25e8a9&line=82aaff&point=89deff&area=true&hide_border=true)]()
 <!--END_SECTION:activity-->
 </details>
 
