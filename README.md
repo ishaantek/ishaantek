@@ -22,17 +22,23 @@
 ## 📚 About Me
 
 ```diff 
-💀 Name: Ishaan Garg.
-📬 Email: ishaan@ishaantek.com.
-🖥️ Favorite Coding Language: Javascript.
-👾 Wants to learn: NodeJS and NextJS.
-💼 Experience: 5 years.
-🌳 Hobbies: Coding, Tennis, Studying.
-🔭 Working on my projects
+👨‍💻 Name: Ishaan Garg
+📧 Email: ishaan@ishaantek.com
+💻 Favorite Programming Language: JavaScript
+📚 Areas of Interest: TypeScript, Next.js, and AI
+💼 Professional Experience: 3 years
+🎾 Hobbies: Coding, Tennis, and Studying
+🔭 Currently working on my personal projects
 
-📜 About me: I first started to learn to code when I was around eight. 
-   Fast forward to now, and I am a front-end web developer currently learning multiple JS frameworks. 
-   Some things that intrest me are Machine Learning and APIs. Feel free to contact me anytime!
+📜 About  me: I began learning  to code at the age of eight,
+and since then, I've evolved  into a front-end web developer
+with expertise in multiple JS  frameworks. My  interests lie
+in  exploring the  latest technologies  and their real-world
+applications, particularly in AI. I'm always keen to network
+with like-minded individuals in the tech community,  so feel
+free to reach out to  me anytime. Thank you  for visiting my
+profile!
+
 ```
 
 ## 🛠️ My favorite tools
