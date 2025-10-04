@@ -24,7 +24,7 @@
 
 ```diff 
 👨‍💻 Name: Ishaan Garg
-📧 Email: ishaan@ishaantek.com
+📧 Email: ishaangarg[at]ishaangarg[dot]com
 💻 Favorite Programming Language: JavaScript
 📚 Areas of Interest: TypeScript, Next.js, and AI
 💼 Professional Experience: 3 years
